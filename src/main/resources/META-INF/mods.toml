@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[21,)"
+license="MIT"
+[[mods]]
+modId="ysm_native_preloader"
+version="1.0.0"
+displayName="YesSteve Native Preloader"
+description='Loads yes_steve_model native library from its jar into natives/ and loads it for all launchers.'
